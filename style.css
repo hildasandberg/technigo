@@ -1,7 +1,7 @@
 #katt {
   position: absolute;
   bottom: 0;
-  left: 3%;
+  left: 30;
   z-index: -1;
 }
 
@@ -11,7 +11,7 @@ h1 {
   color: rgba(378,67,11,0.7);
   position: fixed;
   bottom: 190px;
-  left: 10%;
+  left: 100px;
   z-index: 3;
   letter-spacing: -10px;
 }
